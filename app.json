@@ -1,0 +1,13 @@
+{
+  "name": "Angular-2-App",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
