@@ -14,7 +14,6 @@ import { SelectComponent } from './select.component';
 	  <nav>
 	    <a [routerLink]="['Dashboard']">Dashboard</a>
 	    <a [routerLink]="['Heroes']">Heroes</a>
-	    <a [routerLink]="['Select']">Select</a>
 	  </nav>
 	  <router-outlet></router-outlet>
 	`,
@@ -43,11 +42,11 @@ import { SelectComponent } from './select.component';
 		name: 'HeroDetail',
 		component: HeroDetailComponent
 	},
-	{
-		path: '/select',
-		name: 'Select',
-		component: SelectComponent
-	}
+	// {
+	// 	path: '/select',
+	// 	name: 'Select',
+	// 	component: SelectComponent
+	// }
 ])
 
 export class AppComponent {
