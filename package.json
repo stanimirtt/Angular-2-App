@@ -1,17 +1,24 @@
 {
-  "name": "angular-2-app",
-  "version": "1.0.0",
+  "name": "ng2-app",
+  "version": "0.0.1",
+  "description": "Playing with Angular 2",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:stanimirtt/Angular-2-App.git"
+  },
+  "author": "Stnaimir Todorov <stanimirtt@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
   "scripts": {
     "tsc": "tsc",
     "tsc:w": "tsc -w",
     "lite": "live-server",
     "start": "concurrent \"npm run tsc:w\" \"npm run lite\" "
   },
-  "license": "ISC",
   "dependencies": {
-    "angular2": "2.0.0-beta.1",
+    "angular2": "2.0.0-beta.3",
     "es6-promise": "^3.0.2",
-    "es6-shim": "^0.33.3",
+    "es6-shim": "^0.33.13",
     "ng2-select": "^1.0.1-beta.0",
     "reflect-metadata": "0.1.2",
     "rxjs": "5.0.0-beta.0",
