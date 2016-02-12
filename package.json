@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git@github.com:stanimirtt/Angular-2-App.git"
   },
-  "author": "Stnaimir Todorov <stanimirtt@gmail.com>",
+  "author": "Stanimir Todorov <stanimirtt@gmail.com>",
   "license": "MIT",
   "readmeFilename": "README.md",
   "scripts": {
@@ -20,6 +20,7 @@
     "es6-promise": "^3.0.2",
     "es6-shim": "^0.33.13",
     "ng2-select": "^1.0.1-beta.0",
+    "ng2-material": "^0.1.0",
     "reflect-metadata": "0.1.2",
     "rxjs": "5.0.0-beta.0",
     "systemjs": "0.19.6",
