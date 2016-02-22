@@ -1,7 +1,7 @@
-import { Component }       from 'angular2/core';
+import { Component } from 'angular2/core';
 import { RouteConfig, ROUTER_DIRECTIVES, ROUTER_PROVIDERS } from 'angular2/router';
 
-import {MATERIAL_DIRECTIVES} from "ng2-material/all";
+import { MATERIAL_DIRECTIVES } from "ng2-material/all";
 
 import { HeroService }     from './hero.service';
 import { HeroesComponent } from './heroes.component';

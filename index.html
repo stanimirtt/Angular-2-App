@@ -25,14 +25,15 @@
     <script src="node_modules/rxjs/bundles/Rx.js"></script>
     <script src="node_modules/angular2/bundles/angular2.dev.js"></script>
     <script src="node_modules/angular2/bundles/router.dev.js"></script>
+    <!-- <script src="node_modules/ng2-material/dist/ng2-material.js"></script> -->
 
     <!-- 2. Configure SystemJS -->
     <script>
       System.config({
         map: {
-          "ng2-select":"https://cdn.rawgit.com/justindujardin/ng2-material/410d0dc/ng2-material"
-        },
-        paths: {
+          "ng2-material": "https://cdn.rawgit.com/justindujardin/ng2-material/410d0dc/ng2-material",
+          "ng2-select": "node_modules/ng2-select/components/ng2-select",
+          "ng2-little-kitty": "node_modules/ng2-little-kitty/ng2-little-kitty.js"
         },
         packages: {        
           app: {
@@ -44,6 +45,9 @@
           },
           'ng2-select': {
             defaultExtension: 'js'
+          },
+          "ng2-little-kitty": {
+            "defaultExtension": "js"
           }
         }
       });

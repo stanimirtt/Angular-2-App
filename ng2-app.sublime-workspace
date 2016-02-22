@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"co",
+				"components"
+			],
+			[
+				"c",
+				"components"
+			],
+			[
+				"te",
+				"templateUrl	property"
+			],
+			[
 				"de",
 				"directives	property"
 			],
@@ -43,42 +55,32 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 820,
+				"buffer_size": 879,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "LICENSE",
+			"file": "app/hero-detail.component.ts",
 			"settings":
 			{
-				"buffer_size": 1161,
-				"line_ending": "Windows",
-				"name": "LICENSE"
-			}
-		},
-		{
-			"file": ".editorconfig",
-			"settings":
-			{
-				"buffer_size": 147,
-				"line_ending": "Windows",
-				"name": ".editorconfig"
-			}
-		},
-		{
-			"file": "app/app.component.ts",
-			"settings":
-			{
-				"buffer_size": 1193,
+				"buffer_size": 624,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/dashboard.component.css",
+			"file": "app/heroes.component.ts",
 			"settings":
 			{
-				"buffer_size": 963,
-				"line_ending": "Windows"
+				"buffer_size": 1041,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main.ts",
+			"settings":
+			{
+				"buffer_size": 125,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -89,10 +91,34 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 35.0,
-		"last_filter": "",
+		"height": 150.0,
+		"last_filter": "npm u",
 		"selected_items":
 		[
+			[
+				"npm u",
+				"npm: Run..."
+			],
+			[
+				"npm insta",
+				"npm: Install and Save Package"
+			],
+			[
+				"npm run",
+				"npm: Run..."
+			],
+			[
+				"npm",
+				"npm: Run..."
+			],
+			[
+				"pkgctlinsp",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: Angular 2 Component"
+			],
 			[
 				"remp",
 				"Package Control: Remove Package"
@@ -130,10 +156,6 @@
 				"Project: Save As"
 			],
 			[
-				"snip",
-				"Snippet: html"
-			],
-			[
 				"pac",
 				"Package Control: Install Package"
 			]
@@ -164,26 +186,44 @@
 	],
 	"file_history":
 	[
-		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/select.component.ts",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/main.ts",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/app.component.ts",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/heroes.component.ts",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/index.html",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/package.json",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/node_modules/ng2-little-kitty/ng2-little-kitty.js",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/npm-debug.log",
+		"/C/Work/NetAdvantage/DEV/jQuery/2016.1/Source/ClientUI/js/modules/infragistics.ui.combo.js",
+		"/C/Work/NetAdvantage/DEV/jQuery/2016.1/Builds/JavaScript/tests/coverageReport/index.html",
+		"/C/Work/NetAdvantage/DEV/jQuery/2016.1/Builds/JavaScript/jshint/report.html",
+		"/C/Work/NetAdvantage/DEV/jQuery/2016.1/Builds/JavaScript/tests/qunitReport.html",
+		"/C/Work/NetAdvantage/DEV/jQuery/2016.1/Source/ClientUI/js/modules/infragistics.ui.grid.columnmoving.js",
+		"/C/Work/NetAdvantage/DEV/jQuery/2016.1/Source/ClientUI/js/modules/infragistics.util.js",
+		"/C/Users/sttodorov/Desktop/igComboMulti/modernizr-custom.js",
+		"/C/Users/sttodorov/Downloads/igCombo/igComboMulti/index.html",
+		"/C/Users/sttodorov/Desktop/igComboMulti/index.html",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/.gitattributes",
+		"/C/Users/sttodorov/Downloads/213797.html",
+		"/C/Users/sttodorov/Downloads/213797_v1.html",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/app.component.html",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/select.component.ts",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/styles.css",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/node_modules/ng2-material/font/README.md",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/node_modules/ng2-material/dist/README.md",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/dashboard.component.html",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/.editorconfig",
+		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/LICENSE",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/.gitignore",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/app.component.css",
-		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/.gitattributes",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/ng2-app.sublime-project",
-		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/package.json",
-		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/index.html",
-		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/styles.css",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/tsconfig.json",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/node_modules/ng2-select/components/select.ts",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/node_modules/ng2-select/components/select/select.js",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/node_modules/ng2-select/components/select/select.ts",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/heroes.component.js",
-		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/heroes.component.ts",
-		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/dashboard.component.html",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/heroes.component.html",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/node_modules/ng2-select/README.md",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/dashboard.component.css",
-		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/main.ts",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/dashboard.component.ts",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app/dashboard.component.js",
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app.json",
@@ -203,7 +243,6 @@
 		"/C/Users/sttodorov/Documents/GitHub/Angular-2-App/app.ts",
 		"/C/Users/sttodorov/Desktop/Playground/angular 2/ng-book2-r16-code-samples/manuscript/code/how_angular_works/inventory_app/index.html",
 		"/C/Work/NetAdvantage/DEV/jQuery/2015.2/Tests/Dev/combo/tests.html",
-		"/C/Work/NetAdvantage/DEV/jQuery/2016.1/Source/ClientUI/js/modules/infragistics.ui.combo.js",
 		"/C/Users/sttodorov/AppData/Local/Temp/Temp1_igCombo.zip/igComboMulti/index.html",
 		"/C/Work/NetAdvantage/DEV/jQuery/2016.1/Tests/Dev/combo/ComboSorting - Copy.html",
 		"/C/Work/NetAdvantage/DEV/jQuery/2016.1/Tests/Dev/combo/ComboSorting.html",
@@ -274,28 +313,11 @@
 		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/fitmeal/.htaccess",
 		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/fitmeal/application/controllers/migrate.php",
 		"/C/Users/sttodorov/Downloads/quippadg_fitmeal.sql",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/fitmeal/mysql.sql",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/views/footer.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/assets/js/functions.js",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/views/header.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/migrations/001_remove_order_leasing.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/config/migration.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/controllers/migrate.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/controllers/seo.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/views/order/view.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/views/order/index.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/views/component/purchase_order_form.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/views/main/options.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/views/basket/summary.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/views/basket/forms/select_payment.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/views/basket/forms/select_destination.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/controllers/basket.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/application/config/form_validation.php",
-		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/platform/assets/css/less/.csscomb.json"
+		"/C/Users/sttodorov/Documents/Projects/CK/htdocs/fitmeal/mysql.sql"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -311,6 +333,29 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"scroll",
+			"_containerScrolled",
+			"_containerScrolledHandler",
+			"scrol",
+			"mouse",
+			"getScrollWidth",
+			"dropDownScrollCont",
+			"getScrollWidth",
+			"_updateVirtualScrollVisibility",
+			"_updateVirtualScrollVisibility\n",
+			"$.ig.util",
+			"isTo",
+			"isTouchDevice",
+			"touch",
+			"is to",
+			"moder",
+			"mode",
+			"body",
+			"diff",
+			"astextplain",
+			"_sortDataSource",
+			"sort",
+			"node_modules",
 			"meta",
 			"UA",
 			"grouping",
@@ -392,7 +437,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -408,8 +453,8 @@
 						"selection":
 						[
 							[
-								153,
-								153
+								362,
+								362
 							]
 						],
 						"settings":
@@ -421,7 +466,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -430,15 +475,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 820,
+						"buffer_size": 879,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								786,
-								786
+								876,
+								876
 							]
 						],
 						"settings":
@@ -451,82 +496,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "LICENSE",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1161,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1161,
-								1161
-							]
-						],
-						"settings":
-						{
-							"auto_name": "LICENSE",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": ".editorconfig",
+					"buffer": 2,
+					"file": "app/hero-detail.component.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 147,
+						"buffer_size": 624,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": ".editorconfig",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/app.component.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1193,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								133,
-								133
+								307,
+								307
 							]
 						],
 						"settings":
@@ -543,33 +530,63 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "app/dashboard.component.css",
-					"semi_transient": true,
+					"buffer": 3,
+					"file": "app/heroes.component.ts",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 963,
+						"buffer_size": 1041,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								268,
-								268
+								486,
+								486
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/main.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -577,11 +594,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 28.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 36.0
 	},
 	"layout":
 	{
@@ -618,11 +635,15 @@
 	{
 		"height": 181.0
 	},
+	"output.textarea":
+	{
+		"height": 130.0
+	},
 	"pinned_build_system": "",
 	"project": "ng2-app.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -640,6 +661,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"C:\\Users\\sttodorov\\Documents\\GitHub\\ng2-little-kitty\\ng2-little-kitty.sublime-project"
+			]
 		],
 		"width": 380.0
 	},

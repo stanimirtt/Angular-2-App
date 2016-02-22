@@ -61,7 +61,6 @@ export class SelectComponent {
 	private refreshValue(value: any) {
 		this.value = value;
 	}
-
 }
 
 
