@@ -29,29 +29,14 @@
 
     <!-- 2. Configure SystemJS -->
     <script>
-      System.config({
-        map: {
-          "ng2-material": "https://cdn.rawgit.com/justindujardin/ng2-material/410d0dc/ng2-material",
-          "ng2-select": "node_modules/ng2-select/components/ng2-select",
-          "ng2-little-kitty": "node_modules/ng2-little-kitty/ng2-little-kitty.js"
-        },
-        packages: {        
-          app: {
-            format: 'register',
-            defaultExtension: 'js'
-          },
-          'ng2-material': {
-            defaultExtension: 'js'
-          },
-          'ng2-select': {
-            defaultExtension: 'js'
-          },
-          "ng2-little-kitty": {
-            "defaultExtension": "js"
-          }
-        }
+     System.config({
+        baseURL: '/node_modules',
+        defaultJSExtensions: true,
+        warnings: true,
+        packages: {'app': {format: 'register', defaultExtension: 'js'}} 
       });
-      System.import('app/main')
+
+      System.import('./app/main')
             .then(null, console.error.bind(console));
     </script>
   </head>

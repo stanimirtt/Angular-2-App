@@ -5,7 +5,7 @@ import { Hero } from './hero';
 import { HeroDetailComponent } from './hero-detail.component';
 import { HeroService } from './hero.service';
 
-import { LittleKittyService } from "ng2-little-kitty";
+import { LittleKittyService } from "ng2-little-kitty/ng2-little-kitty";
 
 @Component({
   selector: 'my-heroes',
